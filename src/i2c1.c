@@ -1,6 +1,4 @@
-// Rolando Rosales (1001850424)
-// I2C0 Library - Modified for I2C1
-// Jason Losh
+// I2C1 Library 
 
 //-----------------------------------------------------------------------------
 // Hardware Target
